@@ -5,8 +5,10 @@
   </div>
   
   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=indiu6)](https://github.com/anuraghazra/github-readme-stats)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=indiu6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### Hi there 👋
+### Hi there, I'm Sean 👋
 
 <!--
 **indiu6/indiu6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
