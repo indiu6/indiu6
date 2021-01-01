@@ -4,13 +4,9 @@
   
   </div>
   
-<div display: inline-flex align-items: left>
+<div display: inline-flex align-items: center>
 	
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=indiu6)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
-<div display: inline-flex align-items: right>
 	
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=indiu6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
