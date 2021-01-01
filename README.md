@@ -7,7 +7,7 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=indiu6)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align=right>
+<div align=right position: relative>
 	
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=indiu6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
