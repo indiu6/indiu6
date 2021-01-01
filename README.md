@@ -4,7 +4,7 @@
   
   </div>
   
-<div position: relative>
+<div display: inline-block>
 	
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=indiu6)](https://github.com/anuraghazra/github-readme-stats)
 	
