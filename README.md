@@ -7,7 +7,7 @@
   <img alt=".NET" src="https://img.shields.io/badge/-.Net-430098?style=flat-square&logo=dotNEt&logoColor=white" />
   <img alt="C#" src="https://img.shields.io/badge/-C Sharp-813cd6?style=flat-square&logo=csharp&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-356FA2?style=flat-square&logo=Python&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-fce303?style=flat-square&logo=JavaScript&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-fcba03?style=flat-square&logo=JavaScript&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />  
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
