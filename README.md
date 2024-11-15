@@ -1,5 +1,5 @@
-### Hi there 👋
-### Portfolio : [Click Me](https://indiu6.github.io/portfolio/) ✨ <br>
+### [Portfolio](https://indiu6.github.io/portfolio/) 👋 <br>
+### Generative-AI-App: [Click Me](https://github.com/indiu6/generative-ai) ✨ <br>
 
 <h3>Things I code with</h3>
 <p>
