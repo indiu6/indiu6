@@ -1,7 +1,6 @@
-### [Portfolio](https://indiu6.github.io/portfolio/) 👋 <br>
-### Generative-AI-App: [Click Me](https://github.com/indiu6/generative-ai) ✨ <br>
-
-<h3>Things I code with</h3>
+### Generative-AI-App: [Click Me](https://github.com/indiu6/generative-ai) ✨
+#### [Portfolio](https://indiu6.github.io/portfolio/) 👋 
+<h4>Things I code with:</h4>
 <p>
   <img alt=".NET" src="https://img.shields.io/badge/-.Net-430098?style=flat-square&logo=dotnet&logoColor=white" />
   <img alt="C#" src="https://img.shields.io/badge/-C%20Sharp-813cd6?style=flat-square&logo=csharp&logoColor=white" />
@@ -22,7 +21,6 @@
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
   <img alt="API" src="https://img.shields.io/badge/-API-009688?style=flat-square&logo=fastapi&logoColor=white" />
   <img alt="OOP" src="https://img.shields.io/badge/-OOP-00758F?style=flat-square&logo=oop&logoColor=white" />
-
 </p> 
 
 ![indiu6's github stats](https://github-readme-stats.vercel.app/api?username=indiu6&count_private=true&show_icons=true&hide=contribs)
