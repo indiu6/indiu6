@@ -1,5 +1,5 @@
 ### Generative-AI-App: [Click Me](https://github.com/indiu6/generative-ai) ✨
-#### [Portfolio](https://indiu6.github.io/portfolio/) 👋 
+👋 
 <h4>Things I code with:</h4>
 <p>
   <img alt=".NET" src="https://img.shields.io/badge/-.Net-430098?style=flat-square&logo=dotnet&logoColor=white" />
